@@ -1,17 +1,26 @@
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=azouiaymen&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"
-    height="150"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azouiaymen&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook&cache_seconds=86400"
-    height="150"
-  />
-</p>
+<div align="center">
 
-<p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=azouiaymen&theme=dark&hide_border=true&cache_seconds=86400"
-    height="130"
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=azouiaymen&theme=github_dark&hide_border=true&show_icons=true&rank_icon=github&include_all_commits=true&number_format=long&custom_title=Aymen%27s%20GitHub%20Stats"
   />
-</p>
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=azouiaymen&theme=github_dark&hide_border=true&layout=compact&langs_count=8&hide=Jupyter%20Notebook&custom_title=Most%20Used%20Languages"
+  />
+
+  <br />
+
+  <img
+    height="155"
+    src="https://streak-stats.demolab.com?user=azouiaymen&theme=github-dark-blue&hide_border=true"
+  />
+
+  <br />
+
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=azouiaymen&theme=github_dark"
+  />
+
+</div>
